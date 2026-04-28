@@ -136,6 +136,16 @@ ul {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(188, 24, 136, 0.4);
 }
+.btn-facebook {
+  background: linear-gradient(45deg, #1877f2, #145dbf, #0e4aa8, #0b3d91, #082f73);
+  color: #fff;
+}
+
+.btn-facebook:hover {
+  background: linear-gradient(45deg, #166fe0, #1254aa, #0c4294, #09357d, #062a63);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(24, 119, 242, 0.4);
+}
 
 /* ─── NAVBAR ─────────────────────────────────────────────── */
 #navbar {
